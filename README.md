@@ -2,7 +2,6 @@
 ## SSCT Introduction
 - 团队名：**烧饼小队**  **S**esame **S**eed **C**ake **T**eam
 - 简称：SSCT  
-~~至于为什么要取这个名字，去找 x1007~~
 
 这里是由 [ED_Builder](https://www.luogu.com.cn/user/1023494) 和 [x1007](https://www.luogu.com.cn/user/1109270) 联合创建的团队。
 
@@ -32,3 +31,6 @@
 [![x1007](https://img.shields.io/badge/x1007-3498db?style=flat&logo=github)](https://github.com/x1007) -- 团主，可以在这里了解更多团队信息  
 
 需要联系 ED_Builder 吗？给 ta 发邮件吧！Explorers@wggk6.onmicrosoft.com
+## Anything...
+- 你知道吗？烧饼小队 这个**的名字是 x1007 这个\**的团主起的，因为在网课期间，ta 的学习小组就用了 烧饼小队 这个\**的名字。
+- ED_Builder 这个名字的由来分为2个板块：ED：ta 是 **E**motional **D**amage 的缩写；Builder：ta 是一个 **Builder**，可以**建造**一些东西。
